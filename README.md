@@ -1,7 +1,10 @@
 ### READEME
 ##Projeto clone Spotify
 
-<p>Nesse site foi usado html , css. </p>
+https://clone-player-music.netlify.app
+
+<p>Nesse site foi usado html , css e JavaScipt </p>
+/
 
 <div>
 <img "alt="" src="./img/logo.png">
